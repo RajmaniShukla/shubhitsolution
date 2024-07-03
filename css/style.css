@@ -958,7 +958,7 @@ header .right_bt .btn {
 {
 	height: 90vw;
 }
-@media only screen and (max-width: 351) {
+@media only screen and (max-width: 400px) {
   .logo img {
    height: 60vw;
   }
