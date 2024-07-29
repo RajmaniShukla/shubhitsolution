@@ -3491,7 +3491,7 @@ footer ul.social_icons {
 
 .gross_layout::before {
 	position: absolute;
-/* 	background: rgba(10, 139, 199, 0.8); */
+	background: rgba(10, 139, 199, 0.3);
 	width: 35%;
 	height: 100%;
 	right: 0;
