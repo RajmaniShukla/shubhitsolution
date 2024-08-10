@@ -953,16 +953,6 @@ header .right_bt .btn {
 	position: relative;
 	left: 0;
 }
-
-
-.wname
-{
-        float: left;
-	margin-top: 35px;
-	position: relative;
-	font-family:'Noto Sans Arabic', sans-serif;
-}
-
 .header_style_1 .header_top {
 	position: relative;
 }
