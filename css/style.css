@@ -958,6 +958,12 @@ header .right_bt .btn {
 {
 	height: 7vw;
 }
+.wname
+{
+        float: left;
+	margin: 19px 0 19px;
+	position: relative;	
+}
 
 .header_style_1 .header_top {
 	position: relative;
