@@ -961,8 +961,9 @@ header .right_bt .btn {
 .wname
 {
         float: left;
-	margin: 19px 0 19px;
-	position: relative;	
+	margin-top: 25px;
+	position: relative;
+	font-family:algerian;
 }
 
 .header_style_1 .header_top {
