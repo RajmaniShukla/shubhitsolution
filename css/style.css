@@ -960,9 +960,9 @@ header .right_bt .btn {
 .wname
 {
         float: left;
-	margin-top: 25px;
+	margin-top: 35px;
 	position: relative;
-	font-family:'Noto Sans Arabic';
+	font-family:'Noto Sans Arabic', sans-serif;
 }
 
 .header_style_1 .header_top {
