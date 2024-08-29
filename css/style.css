@@ -953,6 +953,11 @@ header .right_bt .btn {
 	position: relative;
 	left: 0;
 }
+.logo img
+{
+	height:10vw;
+}
+
 .header_style_1 .header_top {
 	position: relative;
 }
